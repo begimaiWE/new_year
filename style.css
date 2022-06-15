@@ -1,0 +1,54 @@
+body{
+    background-color: #146034;
+}
+h1{
+    font-family: 'Pacifico', cursive;
+    color: #CEB076;
+    font-weight: lighter;
+
+
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-weight: lighter;
+}
+h2{
+    color: white;
+}
+.new_year {
+    text-align: center;
+    width: 550px;
+    margin: 80px auto;
+
+}
+.right{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 1214px;
+}
+.left{
+    position: absolute;
+    top: 30px;
+    left: 0;
+    right: 1198px;
+}
+.center{
+    position: absolute;
+    top: 340px;
+    left: 800px;
+}
+.mega{
+    position: absolute;
+    top: 550px;
+    left:635px ;
+}
+.bottom{
+    position: absolute;
+    bottom: 0;
+}
+.bottom{
+    position: absolute;
+    left: 0;
+}
